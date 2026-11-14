@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-11-13T12:00:00Z",
+  "datosDePrueba": true,
+  "especialistas": [
+    {
+      "nombre": "Carlos E. Guerrero Palma",
+      "especialidad": "Psicología",
+      "telefono": "55 0000 0001",
+      "cedula": "PRUEBA-0001"
+    },
+    {
+      "nombre": "Alberto Nuño Ramírez",
+      "especialidad": "Psicología",
+      "telefono": "55 0000 0002",
+      "cedula": "PRUEBA-0002"
+    },
+    {
+      "nombre": "Axel Cerdeira Bengochea",
+      "especialidad": "Psiquiatría",
+      "telefono": "55 0000 0003",
+      "cedula": "PRUEBA-0003"
+    }
+  ]
+}
