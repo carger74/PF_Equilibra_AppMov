@@ -505,7 +505,7 @@ function armarResultado(respuestas) {
 
 // Dirección del endpoint: el archivo JSON "crudo" (raw) del repositorio de GitHub.
 const URL_DIRECTORIO =
-  'https://raw.githubusercontent.com/carger74/PF_AppMov_Spetznas/main/endpoint/especialistas.json';
+  'https://raw.githubusercontent.com/carger74/PF_Equilibra_AppMov/main/endpoint/especialistas.json';
 
 // Nombre (llave) con el que se guarda la copia local en AsyncStorage.
 const LLAVE_DIRECTORIO = 'directorio-especialistas';
