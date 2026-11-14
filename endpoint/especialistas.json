@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T10:00:00Z",
+  "timestamp": "2026-11-15T10:00:00Z",
   "datosDePrueba": true,
   "especialistas": [
     {
@@ -9,10 +9,10 @@
       "cedula": "PRUEBA-0004"
     },
     {
-      "nombre": "Alberto Nuño Ramírez",
+      "nombre": "Carolina Unitec",
       "especialidad": "Psicología",
       "telefono": "55 0000 0002",
-      "cedula": "PRUEBA-0002"
+      "cedula": "PRUEBA-0005"
     },
     {
       "nombre": "Axel Cerdeira Bengochea",
